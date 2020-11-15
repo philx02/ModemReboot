@@ -1,0 +1,7 @@
+bin
+dump.bck
+include
+lib
+__pycache__
+share
+.vscode
